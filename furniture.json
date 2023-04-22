@@ -1,0 +1,162 @@
+[
+    {
+        "name": "Leather Sofa",
+        "price": "$1500",
+        "availability": "In Stock",
+        "image": "https://www.ikea.com/be/en/images/products/landskrona-3-seat-sofa-with-chaise-longue-grann-bomstad-golden-brown-metal__0602354_pe680288_s5.jpg?f=xl",
+        "room_type": "living room",
+        "url": "https://www.ikea.com/be/en/p/landskrona-3-seat-sofa-with-chaise-longue-grann-bomstad-golden-brown-metal-s19272637/"
+    },
+    {
+        "name": "Recliner Chair",
+        "price": "$600",
+        "availability": "In Stock",
+        "image": "https://www.ikea.com/be/en/images/products/strandmon-recliner-nordvalla-dark-grey__0840807_pe726187_s5.jpg?f=s",
+        "room_type": "living room",
+        "url": "https://www.ikea.com/be/en/p/strandmon-recliner-nordvalla-dark-grey-40462598/"
+    },
+    {
+        "name": "Coffee Table",
+        "price": "$300",
+        "availability": "In Stock",
+        "image": "https://www.ikea.com/be/en/images/products/stockholm-coffee-table-walnut-veneer__0181245_pe332924_s5.jpg?f=s",
+        "room_type": "living room",
+        "url": "https://www.ikea.com/be/en/p/stockholm-coffee-table-walnut-veneer-70239710/"
+    },
+    {
+        "name": "TV Stand",
+        "price": "$400",
+        "availability": "In Stock",
+        "image": "https://www.ikea.com/be/en/images/products/besta-tv-bench-black-brown-selsviken-nannarp-high-gloss-black-clear-glass__0642986_pe701603_s5.jpg?f=s",
+        "room_type": "living room",
+        "url": "https: //www.ikea.com/be/en/p/besta-tv-bench-black-brown-selsviken-nannarp-high-gloss-black-clear-glass-s79398931/"
+    },
+    {
+        "name": "Accent Chair",
+        "price": "$500",
+        "availability": "In Stock",
+        "image": "https://www.ikea.com/be/en/images/products/soederhamn-armchair-viarp-beige__0802651_pe768532_s5.jpg?f=s",
+        "room_type": "living room",
+        "url": "https://www.ikea.com/be/en/p/soederhamn-armchair-viarp-beige-s29329756/"
+    },
+    {
+        "name": "Dining Table",
+        "price": "$1000",
+        "availability": "In Stock",
+        "image": "https://www.ikea.com/be/en/images/products/ingatorp-sakarias-table-and-4-chairs-black-kvillsfors-dark-blue-blue__1027111_pe834737_s5.jpg?f=s",
+        "room_type": "dining room",
+        "url": "https://www.ikea.com/be/en/p/ingatorp-sakarias-table-and-4-chairs-black-kvillsfors-dark-blue-blue-s19428993/"
+    },
+    {
+        "name": "Dining Chairs",
+        "price": "$200 each",
+        "availability": "In Stock",
+        "image": "https://www.ikea.com/be/en/images/products/vedbo-chair-birch-gunnared-medium-grey__0766045_pe753695_s5.jpg?f=s",
+        "room_type": "dining room",
+        "url": "https://www.ikea.com/be/en/p/vedbo-chair-birch-gunnared-medium-grey-10417989/"
+    },
+    {
+        "name": "China Cabinet",
+        "price": "$1200",
+        "availability": "In Stock",
+        "image": "https://www.ikea.com/be/en/images/products/galant-storage-combination-w-sliding-doors-black-stained-ash-veneer__0651951_pe707224_s5.jpg?f=s",
+        "room_type": "dining room",
+        "url": "https://www.ikea.com/be/en/p/galant-storage-combination-w-sliding-doors-black-stained-ash-veneer-s69285618/"
+    },
+    {
+        "name": "Bar Cart",
+        "price": "$300",
+        "availability": "In Stock",
+        "image": "https://www.ikea.com/fr/fr/images/products/kungsfors-desserte-acier-inoxydable__0736866_pe740781_s5.jpg?f=s",
+        "room_type": "dining room",
+        "url": "https://www.ikea.com/fr/fr/p/nissafors-desserte-noir-20399777/?gclsrc=aw.ds&gclid=CjwKCAjw__ihBhADEiwAXEazJuQW_tOYQhAf14pEE9t5FFv4YNBJX5ZJBJHQ33WBi2hFr3Kie0C8ohoCxyEQAvD_BwE&gclsrc=aw.ds"
+    },
+    {
+        "name": "Buffet",
+        "price": "$800",
+        "availability": "In Stock",
+        "image": "https://www.ikea.com/be/en/images/products/lanesund-sideboard-grey-brown__1160570_pe888966_s5.jpg?f=s",
+        "room_type": "dining room",
+        "url": "https://www.ikea.com/be/en/p/lanesund-sideboard-grey-brown-90466546/"
+    },
+    {
+        "name": "King Size Bed",
+        "price": "$2000",
+        "availability": "In Stock",
+        "image": "https://www.ikea.com/be/en/images/products/platsa-bed-frame-with-6-doors-12-drawers-white-fonnes__0793238_pe766213_s5.jpg?f=s",
+        "room_type": "bedroom",
+        "url": "https://www.ikea.com/be/en/p/platsa-bed-frame-with-6-doors-12-drawers-white-fonnes-s09324284/"
+    },
+    {
+        "name": "Nightstand",
+        "price": "$300",
+        "availability": "In Stock",
+        "image": "https://www.ikea.com/be/en/images/products/nordli-chest-of-2-drawers-white__0555298_pe660391_s5.jpg?f=s",
+        "room_type": "bedroom",
+        "url": "https://www.ikea.com/be/en/p/nordli-chest-of-2-drawers-white-s09239827/"
+    },
+    {
+        "name": "Dresser",
+        "price": "$1200",
+        "availability": "In Stock",
+        "image": "https://www.ikea.com/be/en/images/products/lanesund-storage-combination-grey-brown__1186545_pe898869_s5.jpg?f=s",
+        "room_type": "bedroom",
+        "url": "https://www.ikea.com/be/en/p/lanesund-storage-combination-grey-brown-s69514728/"
+    },
+    {
+        "name": "Armchair",
+        "price": "$500",
+        "availability": "In Stock",
+        "image": "https://www.ikea.com/be/en/images/products/landskrona-armchair-grann-bomstad-black-metal__0320831_pe514840_s5.jpg?f=s",
+        "room_type": "bedroom",
+        "url": "https://www.ikea.com/be/en/p/landskrona-armchair-grann-bomstad-black-metal-s49031774/"
+    },
+    {
+        "name": "Chaise Lounge",
+        "price": "$700",
+        "availability": "In Stock",
+        "image": "https://www.ikea.com/be/en/images/products/vedbo-high-back-armchair-gunnared-light-green__0949822_pe800039_s5.jpg?f=s",
+        "room_type": "bedroom",
+        "url": "https://www.ikea.com/be/en/p/vedbo-high-back-armchair-gunnared-light-green-50494259/"
+    },
+    {
+        "name": "kitchen Island",
+        "price": "$1500",
+        "availability": "In Stock",
+        "image": "https://www.ikea.com/be/en/images/products/vadholma-kitchen-island-black-oak__0736820_pe740762_s5.jpg?f=s",
+        "room_type": "kitchen",
+        "url": "https://www.ikea.com/be/en/p/vadholma-kitchen-island-black-oak-20359154/"
+    },
+    {
+        "name": "Bar Stools",
+        "price": "$250 each",
+        "availability": "In Stock",
+        "image": "https://www.ikea.com/be/en/images/products/bernhard-bar-stool-with-backrest-chrome-plated-mjuk-white__0727477_pe735703_s5.jpg?f=s",
+        "room_type": "kitchen",
+        "url": "https://www.ikea.com/be/en/p/bernhard-bar-stool-with-backrest-chrome-plated-mjuk-white-00272656/"
+    },
+    {
+        "name": "Pantry Cabinet",
+        "price": "$1000",
+        "availability": "In Stock",
+        "image": "https://www.ikea.com/be/en/images/products/ivar-2-sections-shelves-pine__0578769_pe669756_s5.jpg?f=s",
+        "room_type": "kitchen",
+        "url": "https://www.ikea.com/be/en/p/ivar-2-sections-shelves-pine-s29248345/"
+    },
+    {
+        "name": "Baker's Rack",
+        "price": "$500",
+        "availability": "In Stock",
+        "image": "https://www.ikea.com/be/en/images/products/omar-3-shelf-sections__0624228_pe691741_s5.jpg?f=s",
+        "room_type": "kitchen",
+        "url": "https://www.ikea.com/be/en/p/omar-3-shelf-sections-s19279479/"
+    },
+    {
+        "name": "kitchen Cart",
+        "price": "$300",
+        "availability": "In Stock",
+        "image": "https://www.ikea.com/us/en/images/products/bror-utility-cart-black-pine-plywood__0636685_pe697973_s5.jpg?f=s",
+        "room_type": "kitchen",
+        "url": "https://www.ikea.com/us/en/p/bror-utility-cart-black-pine-plywood-60333850/"
+    }
+]

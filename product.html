@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+{{> header}}
+
+<div class="container my-5">
+    <h1 class="text-center mb-5">Products</h1>
+    <div id="product-list" class="row">
+        {{#results}}
+        <div class="col-md-4 mb-4">
+            <div class="product-item card">
+                <a href="{{url}}" target="_blank" style="text-decoration:none; color:black;">
+                    <img src="{{image}}" alt="{{name}}" class="card-img-top">
+                    <div class="card-body">
+                        <h2 class="card-title">{{name}}</h2>
+                        <p class="card-text">Price: {{price}}</p>
+                        <p class="card-text">Availability: {{availability}}</p>
+                    </div>
+                </a>
+            </div>
+        </div>
+
+
+        {{/results}}
+    </div>
+</div>
+
+{{> footer}}

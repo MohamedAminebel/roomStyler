@@ -1,0 +1,31 @@
+{{> header}}
+
+
+<!-- Upload Section -->
+<section class="container my-5">
+  <h1 class="text-center mb-5">We help you style your room!</h1>
+  <form action="/upload" method="POST" enctype="multipart/form-data">
+    <div class="mb-3">
+      <input type="file" class="form-control" name="image" accept="image/*" required>
+    </div>
+    <div class="text-center">
+      <button type="submit" class="btn btn-primary">Upload Image</button>
+    </div>
+  </form>
+</section>
+
+<!-- Who We Are Section -->
+<section class="container my-5">
+  <div class="row">
+    <div class="col-md-6">
+      <h2>How it works</h2>
+      <p>Upload the image of your room from your device, and you'll get a list of suggested products for it.</p>
+    </div>
+    <div class="col-md-6">
+      <img src="https://cdn.pixabay.com/photo/2016/11/18/17/20/living-room-1835923_960_720.jpg" class="img-fluid">
+    </div>
+  </div>
+</section>
+
+
+{{> footer}}

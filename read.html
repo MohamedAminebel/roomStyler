@@ -1,0 +1,14 @@
+{{> header}}
+<div class="row row-cols-1 row-cols-md-5">
+  {{#furniture}}
+  <div class="col mb-4">
+    <img class="img-fluid" src="{{image}}">
+    <h1>{{name}}</h1>
+    <p>Prix : {{price}}</p>
+    <p>Disponibilité : {{availability}}</p>
+    <p>Convient pour : {{#tags}}{{this}}{{#unless @last}}, {{/unless}}{{/tags}}</p>
+  </div>
+  {{/furniture}}
+</div>
+
+{{> footer}}
